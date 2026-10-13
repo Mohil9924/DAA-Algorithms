@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2706-buy-two-chocolates) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2578-split-with-minimum-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 ## Merge Sort
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 ## Bucket Sort
 |  |
 | ------- |
