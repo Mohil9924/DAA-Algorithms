@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0035-search-insert-position) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -69,8 +72,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
