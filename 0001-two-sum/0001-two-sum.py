@@ -13,4 +13,4 @@ class Solution(object):
                 return [num_to_index[n2], i]
             num_to_index[n] = i
         
-        return []  # Return an empty list if no solution is found
+        return []
