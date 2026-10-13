@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -62,4 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
