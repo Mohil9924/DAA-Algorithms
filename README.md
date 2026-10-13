@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0009-palindrome-number) |
 | [0372-super-pow](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -157,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -245,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
