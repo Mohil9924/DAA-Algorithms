@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Game Theory
 |  |
 | ------- |
