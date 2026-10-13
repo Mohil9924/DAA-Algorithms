@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3537-fill-a-special-grid](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3537-fill-a-special-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Bucket Sort
 |  |
 | ------- |
