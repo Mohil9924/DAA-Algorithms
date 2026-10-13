@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0009-palindrome-number) |
+| [0372-super-pow](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0372-super-pow) |
 ## Tree
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
