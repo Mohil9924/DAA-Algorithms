@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0427-construct-quad-tree) |
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0605-can-place-flowers) |
 ## Bucket Sort
 |  |
 | ------- |
