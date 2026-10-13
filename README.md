@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2027-minimum-moves-to-convert-string) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Bucket Sort
 |  |
 | ------- |
