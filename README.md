@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
+| [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
 ## Bucket Sort
 |  |
 | ------- |
