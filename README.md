@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
