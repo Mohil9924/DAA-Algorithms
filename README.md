@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bucket Sort
 |  |
 | ------- |
