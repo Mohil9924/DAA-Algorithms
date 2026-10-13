@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Merge Sort
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Quickselect
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Bucket Sort
 |  |
 | ------- |
