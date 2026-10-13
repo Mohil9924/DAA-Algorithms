@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
 ## Queue
 |  |
 | ------- |
@@ -273,4 +276,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
