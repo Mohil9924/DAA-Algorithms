@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
 |  |
 | ------- |
