@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2706-buy-two-chocolates) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2864-maximum-odd-binary-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2706-buy-two-chocolates](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2864-maximum-odd-binary-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
 |  |
 | ------- |
