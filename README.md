@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2027-minimum-moves-to-convert-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Bucket Sort
 |  |
 | ------- |
