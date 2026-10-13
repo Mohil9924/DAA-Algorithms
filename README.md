@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 ## Bucket Sort
 |  |
 | ------- |
