@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3537-fill-a-special-grid](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3537-fill-a-special-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3537-fill-a-special-grid](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3537-fill-a-special-grid) |
 ## Tree
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0427-construct-quad-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3537-fill-a-special-grid](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3537-fill-a-special-grid) |
 ## Design
 |  |
 | ------- |
