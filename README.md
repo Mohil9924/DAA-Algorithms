@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0409-longest-palindrome) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1736-latest-time-by-replacing-hidden-digits) |
+| [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0191-number-of-1-bits) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
