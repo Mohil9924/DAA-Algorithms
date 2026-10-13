@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0009-palindrome-number) |
 | [0372-super-pow](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0372-super-pow) |
+| [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
 ## Tree
 |  |
 | ------- |
