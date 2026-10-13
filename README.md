@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0427-construct-quad-tree) |
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
 ## Merge Sort
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
