@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3537-fill-a-special-grid](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -433,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Game Theory
 |  |
 | ------- |
