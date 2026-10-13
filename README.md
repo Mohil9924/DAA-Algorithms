@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Merge Sort
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Bucket Sort
 |  |
 | ------- |
