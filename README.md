@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3537-fill-a-special-grid](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3537-fill-a-special-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3537-fill-a-special-grid](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3537-fill-a-special-grid) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Tree
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
