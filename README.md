@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3537-fill-a-special-grid](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3537-fill-a-special-grid) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0942-di-string-match) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bucket Sort
 |  |
 | ------- |
