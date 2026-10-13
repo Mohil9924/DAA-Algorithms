@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0654-maximum-binary-tree) |
+| [0860-lemonade-change](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0860-lemonade-change) |
 ## Bucket Sort
 |  |
 | ------- |
