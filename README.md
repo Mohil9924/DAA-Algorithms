@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
