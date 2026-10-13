@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Bucket Sort
 |  |
 | ------- |
