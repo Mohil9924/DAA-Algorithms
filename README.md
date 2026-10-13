@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3745-maximize-expression-of-three-elements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Bucket Sort
 |  |
 | ------- |
