@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -417,4 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
