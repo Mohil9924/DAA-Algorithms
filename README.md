@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2706-buy-two-chocolates) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0427-construct-quad-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Design
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Bucket Sort
 |  |
 | ------- |
