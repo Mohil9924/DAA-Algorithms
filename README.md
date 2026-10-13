@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1763-longest-nice-substring) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Tree
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1710-maximum-units-on-a-truck) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
