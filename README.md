@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3074-apple-redistribution-into-boxes) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Bucket Sort
 |  |
 | ------- |
