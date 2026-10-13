@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1323-maximum-69-number) |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -300,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1140-stone-game-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
