@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3745-maximize-expression-of-three-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Mohil9924/DAA-Algorithms/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3745-maximize-expression-of-three-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mohil9924/DAA-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Mohil9924/DAA-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Mohil9924/DAA-Algorithms/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Matrix
 |  |
 | ------- |
